@@ -1,12 +1,22 @@
-# RibbonWinForms
+# Tarco's Fork | RibbonWinForms
+
+I have made a few small changes to the base themes for further Orbstyle 2013 support.
+
+
+## Future Plans
+- Orbstyle 2016
+- .Net 5 support
+
+
+
+# RibbonWinForms (Original Project's Readme)
 An Office Ribbon Control for .NET WinForms
 
 ## Download
-https://github.com/RibbonWinForms/RibbonWinForms/releases
+
 
 ## Install via Nuget
-https://www.nuget.org/packages/RibbonWinForms <br />
-PM> Install-Package RibbonWinForms
+
 
 ## Screenshots
 2007 Style<br />
